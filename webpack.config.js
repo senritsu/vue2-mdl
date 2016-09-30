@@ -7,7 +7,9 @@ module.exports = {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
     filename: 'index.js',
-    libraryTarget: 'umd'
+    library: 'vue2-mdl',
+    libraryTarget: 'umd',
+    umdNamedDefine: true
   },
   resolve: {
       modules: ['node_modules'],

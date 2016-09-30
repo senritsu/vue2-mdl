@@ -1,9 +1,10 @@
 {
   "name": "vue2-mdl",
-  "version": "0.3.1",
+  "version": "0.3.9",
   "description": "Components for integrating the MDL css framework with Vue.js 2.0",
   "main": "dist/index.js",
   "scripts": {
+    "build": "webpack --progress --hide-modules",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
