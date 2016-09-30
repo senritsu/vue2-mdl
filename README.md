@@ -1,4 +1,4 @@
-# vue-mdl
+# vue2-mdl
 A set of Vue components for using the MDL CSS framework.
 
 # Requirements
