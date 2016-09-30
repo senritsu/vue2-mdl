@@ -1,6 +1,6 @@
 {
   "name": "vue2-mdl",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "description": "Components for integrating the MDL css framework with Vue.js 2.0",
   "main": "dist/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/senritsu/vue-mdl.git"
+    "url": "git+https://github.com/senritsu/vue2-mdl.git"
   },
   "keywords": [
     "Vue",
@@ -39,7 +39,7 @@
   "author": "senritsu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/senritsu/vue-mdl/issues"
+    "url": "https://github.com/senritsu/vue2-mdl/issues"
   },
-  "homepage": "https://github.com/senritsu/vue-mdl#readme"
+  "homepage": "https://github.com/senritsu/vue2-mdl#readme"
 }
