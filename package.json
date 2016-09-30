@@ -1,0 +1,30 @@
+{
+  "name": "vue2-mdl",
+  "version": "0.3.0",
+  "description": "Components for integrating the MDL css framework with Vue.js 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senritsu/vue-mdl.git"
+  },
+  "keywords": [
+    "Vue",
+    "MDL",
+    "Material",
+    "UI"
+  ],
+  "peerDependencies": {
+    "vue": "^2.0.0-rc.6",
+    "vue-router": "^2.0.0-rc.5",
+    "dialog-polyfill": "^0.4.4"
+  },
+  "author": "senritsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senritsu/vue-mdl/issues"
+  },
+  "homepage": "https://github.com/senritsu/vue-mdl#readme"
+}
