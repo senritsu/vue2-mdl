@@ -1,6 +1,6 @@
 {
   "name": "vue2-mdl",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "description": "Components for integrating the MDL css framework with Vue.js 2.0",
   "main": "dist/index.js",
   "scripts": {
